@@ -11,7 +11,7 @@ Passionate BTech CS-AI student exploring the world of Artificial Intelligence, W
 Languages  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://www.google.com/imgres?q=python%20text%20logo%20&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff8%2FPython_logo_and_wordmark.svg%2F2560px-Python_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_logo_and_wordmark.svg&docid=EVmS09WSOEFvWM&tbnid=psBWlRU7PLfY2M&vet=12ahUKEwj44MHx2tKQAxWtSGcHHTN4AsMQM3oECCAQAA..i&w=2560&h=758&hcb=2&ved=2ahUKEwj44MHx2tKQAxWtSGcHHTN4AsMQM3oECCAQAA)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
